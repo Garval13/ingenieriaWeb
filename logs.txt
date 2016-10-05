@@ -1,0 +1,47 @@
+commit 94c440fa0639900ad552f0f251255600f809a51d
+Author: Antonio <antonio_jagv@hotmail.com>
+Date:   Tue Oct 4 11:47:07 2016 -0600
+
+    Ajuste de dimension de imagen
+
+commit 75c79da50b8ba531d9e1480bf2625c2bc8177e62
+Author: Antonio <antonio_jagv@hotmail.com>
+Date:   Tue Oct 4 11:44:00 2016 -0600
+
+    Remplazo de imagen
+
+commit d3798a5d6ca6adc8c3993789f716dbdb552d5a46
+Author: Antonio <antonio_jagv@hotmail.com>
+Date:   Tue Oct 4 11:41:44 2016 -0600
+
+    Comandos agregados a la tabla
+
+commit e1d1480ade6a8a6cf71642ff874ee4a32da2943d
+Author: Antonio <antonio_jagv@hotmail.com>
+Date:   Tue Oct 4 11:38:17 2016 -0600
+
+    imagen git
+
+commit 990eb5885b3b3481167fc3ff2e5cd81828b0922e
+Author: Antonio <antonio_jagv@hotmail.com>
+Date:   Tue Oct 4 11:37:08 2016 -0600
+
+    footer
+
+commit 8a8725c64324a9aabdf5c44c253efee79953d7f6
+Author: Antonio <antonio_jagv@hotmail.com>
+Date:   Tue Oct 4 11:33:05 2016 -0600
+
+    Integracion de tabla de comandos
+
+commit 89db851f6951e1c73b794e9b09a3e5b49dff972a
+Author: Antonio <antonio_jagv@hotmail.com>
+Date:   Mon Oct 3 11:53:03 2016 -0600
+
+    Encabezado e integracion bootstrap
+
+commit bd64300de962a7dfb5a6ba06eee4427026d9accf
+Author: Antonio <antonio_jagv@hotmail.com>
+Date:   Mon Oct 3 11:45:57 2016 -0600
+
+    Estructura Inicial
